@@ -1,11 +1,14 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo15223
-Fork on GitHub4139
-<h1 align="center">Hi 👋, I'm Martin Siegert</h1>
+<h1 align="center">Hi there, I'm a Martin 🙃!</h1>
 <h3 align="center">A passionate full stack developer from Berlin</h3>
+<p> After having spend multiple years in hospitality managment i decided for a career change to tech. I started my first challenge to become a developer by attending the 42 school piscine coding challenge. 
 
-- 📫 How to reach me **siegert.martin@aol.com**
+Following a recommendation i subesquently attended a coding bootcamp for full stack web development hosted by Le Wagon. 
+
+Due to my previous managing experience in a customer oriented, time sensitive and revenue driven field i have built strong skills in team work, clear communication and task efficiency. 
+
+I believe these skills mixed with my passion for design and coherence will transfer productively to my new career as a web developer!✨</p>
+
+📫 How to reach me **siegert.martin@aol.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
